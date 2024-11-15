@@ -44,3 +44,11 @@ div.transbox {
     body {
       font-family: 'Courier New', monospace;
     }
+    div, iframe {
+      margin: 0 auto;
+  }
+  
+  iframe {
+      display: block;
+      border-style:none;
+  }
